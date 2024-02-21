@@ -25,3 +25,9 @@ composer require pusher/pusher-php-server
       }
     });
   </script>
+
+
+=== changes ====
+.env
+events
+app.php
